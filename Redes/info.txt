@@ -1,0 +1,4 @@
+This repository has scripts to be used in networks audits, for example, you can review the firewall, waf, wifi, bluetooth, etc.
+
+
+
