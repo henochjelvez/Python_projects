@@ -1,0 +1,1 @@
+Here you have the python script with nmap and metasploit together for scan and detecting vulnerabilities in webservers, databases, web, api, firewall, waf, and the other systems.
