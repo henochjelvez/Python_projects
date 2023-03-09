@@ -19,8 +19,13 @@ https://attack.mitre.org/
 
 9) CVE
 https://cve.mitre.org/
+https://www.cvedetails.com/
 
-10) Other repositores when exploiting systems
+
+10) CISA
+https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+
+11) Other repositores when exploiting systems
 a) nmap
 https://nmap.org/book/man-nse.html
 
@@ -30,6 +35,11 @@ https://docs.rapid7.com/metasploit/resource-scripts/
 c) Metasploit
 https://docs.metasploit.com/
 
+d) Exploit db 
+https://www.exploit-db.com/
+
+e) Vulners
+https://vulners.com/kitploit/KITPLOIT:1562627541384823617
 
 
 
