@@ -1,0 +1,7 @@
+This repository has scripts to be used in database audits, for example, you can review encryption data imports and other use.
+
+
+
+
+
+
