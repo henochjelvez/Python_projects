@@ -1,0 +1,1 @@
+This repository have scripts and projects audit and hardening the operating system Windows, Linux, Mac, Unix, Aix, Solaris and the others system in cloud or on-premise.
