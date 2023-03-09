@@ -1,0 +1,5 @@
+This repository has scripts to be used in the audit of scanners in different systems, for example you can find the scan where kali tools are used for web audit, mobile, networks, social engineering, etc.
+
+
+
+
