@@ -1,6 +1,0 @@
-This repository has scripts to be used in python courses.
-
-
-
-
-
