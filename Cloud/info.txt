@@ -1,0 +1,2 @@
+This repository has scripts and projects audit and hardening cloud system services in different providers such as GCP, AWS Amazon, Azure, in their internal evaluations iam, buckets, servers, vpc, network, firewall, Defender for cloud, dockers, kubernetes, database, domain controllers, vpn, etc.
+
