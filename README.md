@@ -25,7 +25,8 @@ https://www.cvedetails.com/
 10) CISA
 https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
-11) Other repositores when exploiting systems
+11) Other repositores when exploiting systems:
+
 a) nmap
 https://nmap.org/book/man-nse.html
 
